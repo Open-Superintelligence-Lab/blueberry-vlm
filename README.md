@@ -1,3 +1,13 @@
+Hello, I wanns start from nanoVLM as we should definitely not build everything from scratch. This is why open source exists.
+
+Goal is for anyone to be able to just download this repo and run it on their GPU cluster (1 to 1 million), and it should automatically train state of the art model.
+
+Some settings and customizing should be possible.
+
+Original nanoVLM README:
+
+---
+
 # nanoVLM
 
 ![nanoVLM](assets/nanoVLM.png)
